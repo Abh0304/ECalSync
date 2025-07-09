@@ -25,8 +25,7 @@ A Python automation tool that scrapes assignment deadlines from your college’s
 ---
 
 ## 📁 Project Structure
-<details>
-<summary>✅ Click to Expand Fixed Markdown</summary>
+```
 etlab-assignment-reminder/
 ├── etlab.py               # Selenium scraper
 ├── google_calendar.py     # Calendar integration logic
@@ -36,8 +35,7 @@ etlab-assignment-reminder/
 ├── README.md              # Project documentation
 ├── .gitignore             # Hides sensitive files
 └── demo/                  # (Optional) Screenshots
-</details>
-
+```
 ---
 
 ## ⚙️ Setup Instructions
@@ -46,7 +44,7 @@ etlab-assignment-reminder/
 
 ```bash
 git clone https://github.com/Abh0304/ECalSync.git
-cd etlab-assignment-reminder
+cd ECalSync
 ```
 
 ### 2. Install Required Libraries
