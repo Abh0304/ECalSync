@@ -25,14 +25,18 @@ A Python automation tool that scrapes assignment deadlines from your college’s
 ---
 
 ## 📁 Project Structure
-├── etlab.py                 # Selenium scraper
-├── google_calendar.py       # Calendar integration logic
-├── credentials.json         # 🔒 Google API creds (not uploaded)
-├── token.pkl                # 🔒 Saved login session
-├── requirements.txt         # Dependencies
-├── README.md                # Project documentation
-├── demo/                    # (Optional) Screenshots
-└── .gitignore               # Hides sensitive files
+<details>
+<summary>✅ Click to Expand Fixed Markdown</summary>
+etlab-assignment-reminder/
+├── etlab.py               # Selenium scraper
+├── google_calendar.py     # Calendar integration logic
+├── credentials.json       # 🔒 Google API credentials (not uploaded)
+├── token.pkl              # 🔒 Saved login session
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+├── .gitignore             # Hides sensitive files
+└── demo/                  # (Optional) Screenshots
+</details>
 
 ---
 
