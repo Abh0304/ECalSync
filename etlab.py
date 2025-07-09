@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
-service = Service('/Users/abhinava/Desktop/palm-chatbot-angular/Automation/chromedriver')
+service = Service('') #Place the location where you have downloaded chromedriver
 driver = webdriver.Chrome(service=service)
 driver.get("https://tkmce.etlab.in/user/login")
 
